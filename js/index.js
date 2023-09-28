@@ -5892,44 +5892,44 @@ show_date_time();
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Telegram');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://t.me/Thangtompro', '_blank');
+        window.open('https://t.me/cuongdz04', '_blank');
     });
 });
 
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Github');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://github.com/Cuongqtx11', '_blank');
+        window.open('https://github.com/Cuongmz', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Facebook');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.facebook.com/profile.php?id=100013658626743', '_blank');
+        window.open('https://www.facebook.com/profile.php?id=100067979735598&mibextid=LQQJ4d', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Instagram');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.instagram.com/anhcuongqtx17/', '_blank');
+        window.open('https://www.instagram.com/Cường@04/', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Tiktok');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://tiktok.com/@user10851152', '_blank');
+        window.open('https://tiktok.com/@cuong12043', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Youtube');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.youtube.com/@cuongtom11', '_blank');
+        window.open('https://www.youtube.com/@cuongdz04', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Zalo');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://zalo.me/0862222849', '_blank');
+        window.open('https://zalo.me/0333268466', '_blank');
     });
 });
 
@@ -6017,7 +6017,7 @@ textDiv.id = "text";
 var welcomeText = document.createElement("p");
 welcomeText.style.fontFamily = "Quicksand";
 welcomeText.style.fontSize = "20px";
-welcomeText.textContent = "Designed By Huu Cuong🧸🥀";
+welcomeText.textContent = "Designed By Tran Van Cuong";
 welcomeText.style.marginBottom = "10px"; // Khoảng cách dưới 10px
 
 
