@@ -5911,7 +5911,7 @@ document.addEventListener('DOMContentLoaded', function () {
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Instagram');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.instagram.com/Cường@04/', '_blank');
+        window.open('https://www.instagram.com/cuong049/', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
